@@ -15,7 +15,7 @@ npm install -g @angular/cli
 git clone https://github.com/martin-trajanovski/fov-customers-app.git
 ```
 
-## Navigate to the folder and install dependencies:
+## Navigate to the folder and install the dependencies:
 
 ```bash
 npm install
